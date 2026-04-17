@@ -1,6 +1,6 @@
 # About Me
 
-👋 **Hi, I'm Aleksander!**  
+👋 **Hi, I'm Aleksandr!**  
 🌟 **Hobbies:** Cycling 🚴‍♂️ and Brazilian Jiu-Jitsu 🥋  
 
 
