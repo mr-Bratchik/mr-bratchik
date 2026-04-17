@@ -2,7 +2,7 @@
 
 👋 **Hi, I'm Aleksander!**  
 🌟 **Hobbies:** Cycling 🚴‍♂️ and Brazilian Jiu-Jitsu 🥋  
-🐍 **Learning:** Python (currently diving deep into it!)  
+
 
 ---
 
