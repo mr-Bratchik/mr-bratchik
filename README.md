@@ -1,6 +1,7 @@
 # About Me
 
-👋 **Hi, I'm Aleksandr!**  
+[![Hi, I'm Aleksandr!](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 🌟 **Hobbies:** Cycling 🚴‍♂️ and Brazilian Jiu-Jitsu 🥋  
 
 
